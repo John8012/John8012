@@ -1,0 +1,36 @@
+{
+  "id": "92f8614b-bf2b-4fe9-8f25-e3e7abbf0550",
+  "name": "CIC",
+  "publisher": "Cloud4sa",
+  "version": "1.0.0.14",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+      { 
+        "appId": "8047d691-d376-4570-bfe6-9e0d785b8f32",
+        "name": "Azure Blob Storage API", 
+        "publisher": "Cloud4sa", 
+      "version": "1.0.0.2"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 51200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "10.0"
+}
